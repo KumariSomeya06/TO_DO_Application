@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623699575491",
+    "project_id": "dataflair-to-do-list",
+    "storage_bucket": "dataflair-to-do-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623699575491:android:041d54d79716db23d79876",
+        "android_client_info": {
+          "package_name": "com.projectgurukul.dataflairtodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623699575491-kct6f4u82vvccitq5iot181t6f3d9fe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJukoO0oaY3wWfMWkIo4H2isVGF681pS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623699575491-kct6f4u82vvccitq5iot181t6f3d9fe8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
